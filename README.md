@@ -9,5 +9,7 @@ It was the project made for analyzing data of spotify using Ms Excel pivot table
 
 # Screenshots
 
-(https://github.com/PuruJohri/Spotify_Analysis/blob/main/Screenshot%20(119).png)
+https://github.com/PuruJohri/Spotify_Analysis/blob/main/Screenshot%20(119).png
+
+https://github.com/PuruJohri/Spotify_Analysis/blob/main/Screenshot%20(120).png
 
